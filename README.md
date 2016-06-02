@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/mreinfurt/Voozix.png?label=ready&title=Ready)](https://waffle.io/mreinfurt/Voozix)
 # Voozix
 Voozix is a 2D game made using Unity. The basic premise revolves around a player controlling a ball and collect stars in order to gain points. However, the more stars the player collects, the harder the game gets by spawning more enemies. Additional game modes and challenges are available as well.
 
